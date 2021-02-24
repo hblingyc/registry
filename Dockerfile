@@ -1,2 +1,2 @@
-FROM docker.io/registry
+FROM gcr.io/google_containers/registry
 MAINTAINER hblingyc
